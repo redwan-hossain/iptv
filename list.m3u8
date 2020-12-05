@@ -1,6 +1,6 @@
-#EXTINF;-1, HBO
+#EXTINF:-1, HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF;-1, Disnep
+#EXTINF:-1, Disnep
 http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF;-1, DBC News
+#EXTINF:-1, DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
