@@ -1,17 +1,23 @@
 #EXTM3U
 #EXTINF:-1, Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1, Disnep Channel
+#EXTINF:-1, Disnep XD
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1, National Geographic
 http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1, Discovery
 http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1, Animal Planet
+http://bdiptv.net:8080/AnimalPlanet/tracks-v1a1/mono.m3u8?token=756075508e5d8de5f5bc9624203096aa5421cbb5-d371fbec3ea187b86a8fde5a1755a24d-1607195821-1607185021
 #EXTINF:-1, T Sports
 http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1, DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1, HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1, Star Movies
+http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1, Sony Aath
+http://otv.ftpbd.net/streams/127/index.m3u8
 #EXTINF:-1, Nick
 http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=02e0a3064f0f62c3128bbdc42cb93c3cbde7421b-4969216598f1e6a7bd5de5cc4ae54a64-1607195638-1607184838
