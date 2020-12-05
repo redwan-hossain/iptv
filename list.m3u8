@@ -11,6 +11,18 @@ http://otv.ftpbd.net/streams/121/index.m3u8
 http://bdiptv.net:8080/AnimalPlanet/tracks-v1a1/mono.m3u8?token=756075508e5d8de5f5bc9624203096aa5421cbb5-d371fbec3ea187b86a8fde5a1755a24d-1607195821-1607185021
 #EXTINF:-1, T Sports
 http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1, Star Sports 1
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1, Star Sports 2
+http://otv.ftpbd.net/streams/116/index.m3u8
+#EXTINF:-1, Star Sports Select HD 1
+http://otv.ftpbd.net/streams/113/index.m3u8
+#EXTINF:-1, Star Sports Select HD 2
+http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1, Sony Six
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1, Sony Ten 2
+http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1, DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1, HBO
