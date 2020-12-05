@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1, CN
+#EXTINF:-1, Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1, HBO
-http://otv.ftpbd.net/streams/111/index.m3u8
-#EXTINF:-1, Disnep
+#EXTINF:-1, Disnep Channel
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1, National Geographic
 http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1, Discovery
+http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1, T Sports
+http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1, DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
+#EXTINF:-1, HBO
+http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1, Nick
+http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=02e0a3064f0f62c3128bbdc42cb93c3cbde7421b-4969216598f1e6a7bd5de5cc4ae54a64-1607195638-1607184838
