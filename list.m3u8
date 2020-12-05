@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF;-1,A
+#EXTINF;-1 tvg-id="HBO(src07).in(m3u4u)" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="Movies",HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
 #EXTINF;-1,B
 http://otv.ftpbd.net/streams/122/index.m3u8
