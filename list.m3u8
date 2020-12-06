@@ -54,7 +54,7 @@ http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1, News24
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1, Ekattor TV
-http://10.16.100.205/hls/ekattor_hd_720.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1, DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1, Asian TV
@@ -67,6 +67,8 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 http://10.16.100.203:8082/bangla/digibangla24.m3u8
 #EXTINF:-1, HBO
 http://otv.ftpbd.net/streams/111/index.m3u8
+#EXTINF:-1, UTV Action
+http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1, Star Movies
 http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1, &Flix HD
