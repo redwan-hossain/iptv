@@ -2,7 +2,7 @@
 #EXTINF:-1, Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1, Duronto
-http://tv.dflix.live:8082/10/mono.m3u8?token=8540043e13ba3ebe7ee132ce4cfa4a1014ab2b3d-5c12e2c5bafafcf53fd92e49293dd2ea-1607199346-1607188546&remote=103.150.255.194
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1, Peace TV
 http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Disnep Channel
