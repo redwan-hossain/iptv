@@ -5,7 +5,7 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1, Peace TV
 http://10.16.100.207:8082/sports/peacetv.m3u8
-#EXTINF:-1, Disnep Channel
+#EXTINF:-1, Disney Channel
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1, National Geographic
 http://otv.ftpbd.net/streams/110/index.m3u8
@@ -46,9 +46,11 @@ http://tv.dflix.live:8082/15/mono.m3u8?token=dabc4d0acb820167676d03399ef29c55b03
 #EXTINF:-1, Jamuna TV
 http://tv.dflix.live:8082/13/mono.m3u8?token=6529a08e5dc99d17873f3189b9bc4d4cd21d2633-bc29ea21d94247886bbabd55eb2d7422-1607199704-1607188904&remote=103.150.255.194
 #EXTINF:-1, ATN News
-http://tv.dflix.live:8082/49/mono.m3u8?token=7cae861d7bda7ed85b043cf94a2932880c6cfcf7-f49f0e88931b7600bc9fcbd8c5f1539e-1607199645-1607188845&remote=103.150.255.194
-#EXTINF:-1, Desh TV
-http://tv.dflix.live:8082/9/mono.m3u8?token=a5101be245476fd83bf0da5c8cb861ae2433bd02-5da5ae3ad735b662cadc595bc05a6b7f-1607199594-1607188794&remote=103.150.255.194
+http://10.16.100.205/hls/news_atn_london720.m3u8
+#EXTINF:-1, ATN Bangla
+http://10.16.100.203:8082/bangla/atnbangla.m3u8
+#EXTINF:-1, Channel (
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #EXTINF:-1, RTV
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1, News24
@@ -71,9 +73,5 @@ http://otv.ftpbd.net/streams/111/index.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1, Star Movies
 http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1, &Flix HD
-http://tv.dflix.live:8082/78/mono.m3u8?token=b9a06a7543cf595bf5f48c82866ab346f3874682-b67e81e9454b37d64a1d35a70500615d-1607199443-1607188643&remote=103.150.255.194
 #EXTINF:-1, Sony Aath
 http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:-1, Nick
-http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=02e0a3064f0f62c3128bbdc42cb93c3cbde7421b-4969216598f1e6a7bd5de5cc4ae54a64-1607195638-1607184838
