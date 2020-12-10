@@ -23,12 +23,22 @@ http://otv.ftpbd.net/streams/113/index.m3u8
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1, Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1,Sony Ten 1
+http://103.205.133.20/hls/ten1.m3u8
 #EXTINF:-1, Sony Ten 2
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1, Sony Ten 3
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
 #EXTINF:-1, Ekushey TV
 http://10.16.100.205/hls/21etv.m3u8
+#EXTINF:-1, Masranga
+http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
+#EXTINF:-1,Satv
+http://103.205.133.48/hls/satv.m3u8
+#EXTINF:-1,Independent Tv
+http://103.132.180.245:8080/16/index.m3u8
+#EXTINF:-1,DBC News
+http://103.132.180.245:8080/2/index.m3u8
 #EXTINF:-1, NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1, Bangla Vision
