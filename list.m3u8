@@ -29,6 +29,8 @@ http://103.205.133.20/hls/ten1.m3u8
 http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1, Sony Ten 3
 http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
+#EXTINF:-1, Al Jazeera [YT]
+https://www.youtube.com/watch?v=Btv7G0BV45g
 #EXTINF:-1, Ekushey TV
 http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1, Masranga
@@ -57,6 +59,8 @@ http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1, News24
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+#EXTINF:-1, Somoy TV [YT]
+https://www.youtube.com/watch?v=KgiwN7ddb2U
 #EXTINF:-1, Ekattor TV
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1, DBC News
