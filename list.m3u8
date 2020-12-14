@@ -65,6 +65,8 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1, GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
+#EXTINF:-1, Jamuna TV [YT]
+https://www.youtube.com/watch?v=f7-0H-cD-hA
 #EXTINF:-1, Nagorik TV
 http://10.16.100.203:8082/bangla/nagorik.m3u8
 #EXTINF:-1, Digi Bangla
